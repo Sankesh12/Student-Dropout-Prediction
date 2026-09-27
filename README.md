@@ -1,5 +1,6 @@
-# 🎓 Student Dropout Prediction
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-FF4B4B?style=for-the-badge)](https://student-dropout-prediction-sdp.streamlit.app/)
+# 🎓 Student Dropout Prediction [![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-FF4B4B?style=for-the-badge)](https://student-dropout-prediction-sdp.streamlit.app/)
+
+
 - A Machine Learning project that predicts whether a student is likely to drop out based on academic performance, student characteristics, family background, study habits, and other relevant factors.
 
 - This project was developed as part of my **Big Brains Internship** to practice an end-to-end Machine Learning workflow, from data exploration and preprocessing to model training, evaluation, and application deployment.
